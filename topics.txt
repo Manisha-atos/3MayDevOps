@@ -1,0 +1,69 @@
+3 Days training.
+atten--- LMS
+75 -- % 
+
+
+Devops 
+
+dev+op 
+tools 
+SDLC ---linaer approa,complete application , 
+change mgmt , deliva , customer iter.
+
+application ----> deployed product operation team .
+
+
+agile --- incre & Iterative.
+stor   ---- 2- 4 sprint .
+iter -2 
+moduler -- early deliverable , change mgmt , 
+
+online shopping 
+
+online payment
+
+netbanking ---- customer --- otp ---  .net 
+iter---2 ---- customer ---- approved 
+card payment --- 2 weeks ---- deployed
+gpay ---- 2weeks ---- deploy
+paytm ---- 2 weeks --- deploy
+
+server confi ---hw +sw 
+code scanner ---- stability
+contin----deploye sta
+
+
+devops 
+what is devops??
+why devops???
+how ??
+
+
+stages of Devops.
+
+1- SCM --- remote server github.
+veriosioni  --git 
+
+netbanking version -1
+version -2 
+version -3
+
+2--cont build --- executable  compile ---code vai , unit testing ,integeration 
+maven , ant , 
+
+3-- con  testingdelive  UAT -- , selenium 
+
+4 con deploy---configuration mgmt & container
+
+10 
+
+
+git -- version tool
+
+working direc
+local repo
+remote repo
+
+DVSC ---- 
+
+
