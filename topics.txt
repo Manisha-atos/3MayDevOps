@@ -67,3 +67,15 @@ remote repo
 DVSC ---- 
 
 
+git 
+
+
+space over internet , onedrive 
+remote repository
+
+SCM ----sharing github  
+
+code ---- scm , mange various version , git ---VS
+asd
+ad
+ad
